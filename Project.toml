@@ -1,0 +1,4 @@
+name = "VQE"
+uuid = "92bcd587-fdb3-47ea-b9ef-84b62cbf8393"
+authors = ["Dongjin Suh, Tim Bode"]
+version = "0.0.1"
