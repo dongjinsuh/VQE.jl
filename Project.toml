@@ -2,3 +2,9 @@ name = "VQE"
 uuid = "92bcd587-fdb3-47ea-b9ef-84b62cbf8393"
 authors = ["Dongjin Suh, Tim Bode"]
 version = "0.0.1"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
+[compat]
+LinearAlgebra = "1.11.0"
