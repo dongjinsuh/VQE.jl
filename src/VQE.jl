@@ -10,6 +10,7 @@ include("problem.jl")
 export Problem
 
 include("circuit.jl")
+export circuit
 
 include("optimization.jl")
 export cost_function, optimize_parameters
