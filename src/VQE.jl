@@ -13,6 +13,6 @@ include("circuit.jl")
 export circuit
 
 include("optimization.jl")
-export cost_function, optimize_parameters
+export cost_function, optimize_parameters, cost_function_mix, optimize_parameters_mix, optimize_parameters_half, optimize_parameters_mix_two, optimize_parameters_two_v2
 
 end # module VQE
